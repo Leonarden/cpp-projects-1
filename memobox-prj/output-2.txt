@@ -1,0 +1,9 @@
+** Dayly course:BBBFFM
+
+BEBERANGES:WineWaterCoke:BWC
+Beef:B
+BlackBread:BB
+Fish:F
+FruitsAndVegetables:FAV
+MilkYogurtCheese:MYC
+

@@ -1,0 +1,37 @@
+
+** Science:TGT
+
+TypesOfEnergy:TOE
+GravitationalForce:GF
+TheoremOfTheLimit:TOTL
+
+** Computer Science:AIP
+
+AlgorithmsFundamentals:AF
+InternetOfTheThings:IOTT
+ParallelProcessing:PP
+
+** Advertissing:CRW
+
+CokeYourFlavor:CYF
+RestaurantDiPiero:RDP
+WalmartAsAtHome:WAAH
+
+** Science:TGT
+
+TypesOfEnergy:TOE
+GravitationalForce:GF
+TheoremOfTheLimit:TOTL
+
+** Computer Science:AIP
+
+AlgorithmsFundamentals:AF
+InternetOfTheThings:IOTT
+ParallelProcessing:PP
+
+** Advertissing:CRW
+
+CokeYourFlavor:CYF
+RestaurantDiPiero:RDP
+WalmartAsAtHome:WAAH
+
