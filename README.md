@@ -1,5 +1,5 @@
-#Cpp-projects-1
-Contains the following projects:
+
+#Cpp-projects-1, Contains the following projects :
 
 # algorithms-prj
 An implementation of algoritmths techniques as back-tracking, greedy and dynamic programming
@@ -8,4 +8,5 @@ An implementation of algoritmths techniques as back-tracking, greedy and dynamic
 Memotechnics generator (use of streams)
 
 # patterns-executor-prj
-It contains different (gof) patterns implementations
+It contains different (gof) patterns implementations examples
+
